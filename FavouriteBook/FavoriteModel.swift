@@ -1,10 +1,3 @@
-//
-//  FavoriteModel.swift
-//  FavouriteBook
-//
-//  Created by Erdem Okçu on 22.11.2021.
-//
-
 import Foundation
 
 struct FavoriteModel : Identifiable {
